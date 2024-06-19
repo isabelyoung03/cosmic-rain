@@ -1,0 +1,21 @@
+{
+  "name": "cosmic-rain",
+  "displayName": "Cosmic Rain",
+  "description": "Cosmic rain across the galaxy",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.90.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cosmic Rain",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cosmic Rain-color-theme.json"
+      }
+    ]
+  }
+}
