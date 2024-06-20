@@ -1,7 +1,7 @@
 {
   "name": "cosmic-rain",
   "displayName": "Cosmic Rain",
-  "description": "Cosmic Rain theme for Visual Studio Code",
+  "description": "Cosmic rain across the galaxy",
   "version": "1.0.0",
   "publisher": "issytastic",
   "engines": {
@@ -18,5 +18,9 @@
         "path": "./themes/Cosmic Rain-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isabelyoung03/cosmic-rain"
   }
 }
