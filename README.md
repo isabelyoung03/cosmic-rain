@@ -6,6 +6,8 @@
 
 Cosmic Rain is a Visual Studio Code theme inspired by the galaxy. It features bold, vibrant colors set against a dark blue background, evoking the vastness and beauty of the cosmos.
 
+This theme has been tested on Python code.
+
 ## Features
 
 - **Bold Colors:** The theme uses a rich palette of bold colors for syntax highlighting, making your code stand out.
@@ -23,12 +25,7 @@ Cosmic Rain is a Visual Studio Code theme inspired by the galaxy. It features bo
 ### Code Example
 ![Code Example](path/to/your/screenshot.png)
 
-### Sidebar and Activity Bar
-![Sidebar and Activity Bar](path/to/your/screenshot.png)
-
----
-
-We hope you enjoy using the Cosmic Rain theme! If you like it, please give it a rating on the Visual Studio Code Marketplace.
+I hope you enjoy using the Cosmic Rain theme! If you like it, please give it a rating on the Visual Studio Code Marketplace.
 
 ---
 
