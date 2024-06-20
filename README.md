@@ -27,9 +27,7 @@ This theme has been tested on Python code.
 
 ---
 
-We hope you enjoy using the Cosmic Rain theme! If you like it, please give it a rating on the Visual Studio Code Marketplace.
-
----
+I hope you enjoy using the Cosmic Rain theme! If you like it, please give it a rating on the Visual Studio Code Marketplace.
 
 **Author:** Isabel Young
 **Version:** 1.0.0
