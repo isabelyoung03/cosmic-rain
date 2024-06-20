@@ -1,6 +1,6 @@
 # Cosmic Rain
 
-![Cosmic Rain Logo](Cosmic_rain.png)
+<img src="Cosmic_rain.png" alt="Cosmic Rain Logo" width="200">
 
 ## Overview
 
